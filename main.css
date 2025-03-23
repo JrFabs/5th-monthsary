@@ -26,14 +26,14 @@ body {
     transition: all 0.5s ease-in-out;
   }
 
-  button a{
+ button a{
     text-decoration: none;
     font-size: 20px;
-    color: #9d4edd;
+    color: #47166e;
   }
 
   button:hover{
-    background-color: #411c63;
+    background-color: #6a3f92;
     color: #9773b8;
   }
 
